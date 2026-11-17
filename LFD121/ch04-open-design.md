@@ -36,6 +36,11 @@
 - 룰이 공개돼도 탐지가 유지되도록 만드는 게 맞다 (예: 120초 빈도 룰은 천천히 하면 피해진다 → 실제로 느린 BOLA 를 놓쳤다. 숨겨서 해결할 문제가 아니라 룰을 바꿔야 했다).
 - 다만 **운영 중인 실제 임계값**은 키와 비슷하게 바꿀 수 있는 설정값으로 보고 공개본에 넣지 않는다.
 
+## 내 다른 글 · 프로젝트와 연결
+
+- 같은 장에서 먼저 정리한 [최소 권한](ch04-least-privilege.md) 과 이어진다. 한 문장으로: **설계는 공개하고, 방어는 권한으로 한다.** 최소 권한으로 관리 서버의 `AdministratorAccess` 를 쪼개 놓았기 때문에, 그 정책 코드가 공개돼도 안전하다.
+- 적용한 프로젝트: [api-security-supply-chain](https://github.com/zeldaim/api-security-supply-chain) (숨은 API 찾기), [multicloud-dr-petclinic](https://github.com/zeldaim/multicloud-dr-petclinic) (최소 권한), [shadow_APT](https://github.com/zeldaim/shadow_APT) (모의 통관·물류 플랫폼에서 숨은 경로 찾기).
+
 ## 검증
 
 | 확인 | 결과 |
