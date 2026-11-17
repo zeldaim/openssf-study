@@ -20,6 +20,7 @@ OpenSSF 무료 과정을 들으면서 정리하는 노트입니다.
 | 과정 | 장 | 주제 | 적용한 곳 | 상태 |
 |---|---|---|---|---|
 | LFD121 Developing Secure Software | 4장 | [최소 권한](LFD121/ch04-least-privilege.md) | multicloud-dr-petclinic 관리 서버 IAM | 적용, 검증 |
+| | 4장 | [공개 설계 (Open Design)](LFD121/ch04-open-design.md) | 내 레포 공개 전환 (설계와 비밀 분리) | 적용, 검증 |
 | | 5장 | 외부 소프트웨어를 안전하게 쓰기 | API 보안 · 공급망 프로젝트 (SBOM, VEX) | 공부 중 |
 
 ## 지금까지 바뀐 것
