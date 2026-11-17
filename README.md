@@ -35,11 +35,7 @@ flowchart LR
 | 과정 | 장 | 개념 | 적용한 프로젝트 | 상태 |
 |---|---|---|---|---|
 | **LFD121** Developing Secure Software | Ch.4 | [최소 권한](LFD121/ch04-least-privilege.md) | multicloud-dr-petclinic — 관리 서버 IAM | ![](https://img.shields.io/badge/-applied%20%26%20verified-2DA44E?style=flat-square) |
-| | Ch.4 | 안전한 기본값 · 완전한 중재 · 보호/탐지/대응 | (후보는 Ch.4 글 끝 표) | ![](https://img.shields.io/badge/-next-8B949E?style=flat-square) |
-| | Ch.5 | 외부 소프트웨어를 안전하게 쓰기 | API 보안 · 공급망 (SBOM · VEX) | ![](https://img.shields.io/badge/-studying-FFB703?style=flat-square) |
-| **LFEL1006** OpenSSF Scorecard | — | 프로젝트 보안 습관 점수 | 내 공개 레포 | ![](https://img.shields.io/badge/-planned-8B949E?style=flat-square) |
-| **LFEL1007** SBOMs and Signatures | — | SBOM 서명 · 출처 증명 | API 보안 · 공급망 | ![](https://img.shields.io/badge/-planned-8B949E?style=flat-square) |
-| **LFS182** Sigstore | — | cosign 서명 · 검증 | 컨테이너 이미지 | ![](https://img.shields.io/badge/-planned-8B949E?style=flat-square) |
+| | Ch.5 · next | 외부 소프트웨어를 안전하게 쓰기 | API 보안 · 공급망 (SBOM · VEX) | ![](https://img.shields.io/badge/-studying-FFB703?style=flat-square) |
 
 ## 🏁 지금까지 전후 비교 한눈에
 
